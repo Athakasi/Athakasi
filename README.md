@@ -22,6 +22,15 @@ I'm currently deepening my knowledge of Laravel and improving my skills in build
 - **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code, Postman
 
+## 🚀 Featured Project
+
+### SI-BARANG — Inventory Management System
+
+A web-based inventory management application for managing inventory data, stock transactions, user roles, and inventory reports.
+
+- **Tech Stack:** Native PHP, MySQL, JavaScript, HTML, CSS
+- **Source Code:** [Sibarang Demo](https://github.com/Athakasi/sibarang_demo)
+- **Live Demo:** [Try SI-BARANG](https://faldesk.freedev.app/projects/sibarang/login.php)
 
 ### Developer Portfolio
 A personal portfolio showcasing my projects, skills, and development journey.
