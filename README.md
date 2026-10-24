@@ -22,25 +22,17 @@ I'm currently deepening my knowledge of Laravel and improving my skills in build
 - **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code, Postman
 
-## 📌 Featured Projects
-
-### Sibarang
-A web application project focused on [describe the main purpose of Sibarang].
-
-- **Tech Stack:** [add the technologies actually used]
-- **Repository:** [insert your Sibarang repository link]
 
 ### Developer Portfolio
 A personal portfolio showcasing my projects, skills, and development journey.
 
-- **Tech Stack:** [add your technologies]
-- **Repository:** [insert your portfolio repository link]
+- **Tech Stack:** : https://faldesk.freedev.app/
 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Athakasi
-- LinkedIn: [insert your LinkedIn profile]
-- Email: [insert your professional email]
+- LinkedIn: https://www.linkedin.com/in/falakh
+- Email: falakhdeid@gmail.com
 
 ---
 
