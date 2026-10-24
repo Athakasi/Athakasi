@@ -1,16 +1,47 @@
-## Hi there 👋
 
-<!--
-**Athakasi/Athakasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Athakasi 👋
 
-Here are some ideas to get you started:
+### Junior Full-Stack Developer | Laravel Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a fresh graduate passionate about web development, problem-solving, and continuous learning.
+
+I'm currently deepening my knowledge of Laravel and improving my skills in building reliable, maintainable, and user-friendly web applications.
+
+## 🚀 About Me
+
+- 💻 Interested in Full-Stack and Backend Development
+- 🌱 Currently learning and exploring Laravel
+- 🧩 Enjoy solving problems and learning new technologies
+- 🤝 Open to collaboration, internship, and junior developer opportunities
+- 🎯 Goal: Build useful applications and grow as a professional developer
+
+## 🛠️ Technologies & Tools
+
+- **Backend:** PHP, Laravel
+- **Frontend:** HTML, CSS, JavaScript
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, Postman
+
+## 📌 Featured Projects
+
+### Sibarang
+A web application project focused on [describe the main purpose of Sibarang].
+
+- **Tech Stack:** [add the technologies actually used]
+- **Repository:** [insert your Sibarang repository link]
+
+### Developer Portfolio
+A personal portfolio showcasing my projects, skills, and development journey.
+
+- **Tech Stack:** [add your technologies]
+- **Repository:** [insert your portfolio repository link]
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Athakasi
+- LinkedIn: [insert your LinkedIn profile]
+- Email: [insert your professional email]
+
+---
+
+*Always learning, building, and improving.*
